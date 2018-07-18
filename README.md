@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Convolutional Neural Network for Car Recognition
 
 The code contains a basic *car recognizer* using `keras` library.
@@ -22,12 +21,6 @@ In the architecture of the Conv net, we have a following layers:
 
 ## Execute:
 `python kerasCNN.py`
-=======
-# CNN recognition for car
 
-## Steps
-Different Layers
-
-## Modules
+### Modules
 Keras,Tensorflow,Numpy
->>>>>>> b3bbe9d35383e255f32baa124b542e078db008a1
